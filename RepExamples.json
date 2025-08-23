@@ -1,0 +1,666 @@
+[
+    {
+        "id": 272439,
+        "image": "DGM4/manipulation/HFGI/HFGI/272439-HFGI.jpg",
+        "text": "Cleopatra De Leon left and Nicole Dimetman outside the federal courthouse in San Antonio on Feb 12 2014 They want Texas to recognize their marriage which took place in Massachusetts",
+        "fake_cls": "face_attribute",
+        "fake_image_box": [
+            957,
+            258,
+            1517,
+            1003
+        ],
+        "fake_text_pos": [],
+        "mtcnn_boxes": [
+            [
+                957,
+                258,
+                1517,
+                1003
+            ],
+            [
+                2304,
+                611,
+                2759,
+                1217
+            ]
+        ]
+    },
+    {
+        "id": 838702,
+        "image": "DGM4/manipulation/HFGI/HFGI/838702-HFGI.jpg",
+        "text": "Reel them in Philippe Noiret and Salvatore Cascio in a scene from Cinema Paradiso",
+        "fake_cls": "face_attribute",
+        "fake_image_box": [
+            314,
+            159,
+            365,
+            226
+        ],
+        "fake_text_pos": [],
+        "mtcnn_boxes": [
+            [
+                314,
+                159,
+                365,
+                226
+            ],
+            [
+                266,
+                66,
+                307,
+                120
+            ]
+        ]
+    },
+    {
+        "id": 119100,
+        "image": "DGM4/manipulation/infoswap/119100-013472-infoswap.jpg",
+        "text": "Fairfax County police are searching for two men who stole liquor from a Wegmans on Monument Drive on three occasions",
+        "fake_cls": "face_swap",
+        "fake_image_box": [
+            149,
+            146,
+            194,
+            204
+        ],
+        "fake_text_pos": [],
+        "mtcnn_boxes": [
+            [
+                679,
+                3,
+                727,
+                60
+            ],
+            [
+                149,
+                146,
+                194,
+                204
+            ]
+        ]
+    },
+    {
+        "id": 1155174,
+        "image": "DGM4/manipulation/infoswap/1155174-039438-infoswap.jpg",
+        "text": "Roaring success Leonardo DiCaprio as Jordan Belfort in The Wolf of Wall Street",
+        "fake_cls": "face_swap",
+        "fake_image_box": [
+            240,
+            70,
+            284,
+            126
+        ],
+        "fake_text_pos": [],
+        "mtcnn_boxes": [
+            [
+                240,
+                70,
+                284,
+                126
+            ],
+            [
+                379,
+                0,
+                397,
+                22
+            ],
+            [
+                292,
+                49,
+                312,
+                74
+            ]
+        ]
+    },
+    {
+        "id": 1452568,
+        "image": "DGM4/origin/bbc/bbc/0103/010.jpg",
+        "text": "Rita King was delighted with what was believed to be a 1934 revolver",
+        "fake_cls": "text_attribute",
+        "fake_image_box": [],
+        "fake_text_pos": [
+            3
+        ],
+        "mtcnn_boxes": [
+            [
+                50,
+                49,
+                393,
+                519
+            ],
+            [
+                653,
+                10,
+                825,
+                234
+            ]
+        ]
+    },
+    {
+        "id": 739230,
+        "image": "DGM4/origin/guardian/guardian/0537/087.jpg",
+        "text": "Media mogul Rupert Murdoch and former supermodel Jerry Hall lost their wedding at St Bride s church",
+        "fake_cls": "text_attribute",
+        "fake_image_box": [],
+        "fake_text_pos": [
+            9
+        ],
+        "mtcnn_boxes": [
+            [
+                101,
+                31,
+                183,
+                140
+            ],
+            [
+                253,
+                35,
+                331,
+                139
+            ]
+        ]
+    },
+    {
+        "id": 287444,
+        "image": "DGM4/origin/usa_today/usa_today/0605/001.jpg",
+        "text": "Will Essendon keep their eyes on the ball with next week s court case approaching Probably they re professional athletes",
+        "fake_cls": "text_swap",
+        "fake_image_box": [],
+        "fake_text_pos": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19
+        ],
+        "mtcnn_boxes": [
+            [
+                139,
+                34,
+                166,
+                69
+            ],
+            [
+                46,
+                52,
+                70,
+                83
+            ],
+            [
+                69,
+                41,
+                90,
+                69
+            ]
+        ]
+    },
+    {
+        "id": 548213,
+        "image": "DGM4/origin/guardian/guardian/0263/985.jpg",
+        "text": "Riyad Mahrez shares a joke with N Golo Kante during Leicester City training",
+        "fake_cls": "text_swap",
+        "fake_image_box": [],
+        "fake_text_pos": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12
+        ],
+        "mtcnn_boxes": [
+            [
+                329,
+                30,
+                360,
+                75
+            ],
+            [
+                196,
+                147,
+                220,
+                177
+            ],
+            [
+                142,
+                21,
+                164,
+                48
+            ],
+            [
+                53,
+                147,
+                71,
+                175
+            ]
+        ]
+    },
+    {
+        "id": 96235,
+        "image": "DGM4/manipulation/infoswap/96235-060063-infoswap.jpg",
+        "text": "Listening to the ceremony are Martin Baron The Post s executive editor DC Mayor Muriel E Bowser Maryland Gov Larry Hogan and Virginia Gov Terry McAuliffe",
+        "fake_cls": "face_swap&text_swap",
+        "fake_image_box": [
+            182,
+            74,
+            280,
+            191
+        ],
+        "fake_text_pos": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6,
+            22,
+            23,
+            24,
+            25
+        ],
+        "mtcnn_boxes": [
+            [
+                182,
+                74,
+                280,
+                191
+            ],
+            [
+                34,
+                155,
+                73,
+                210
+            ],
+            [
+                308,
+                165,
+                339,
+                210
+            ],
+            [
+                137,
+                133,
+                161,
+                165
+            ]
+        ]
+    },
+    {
+        "id": 366019,
+        "image": "DGM4/manipulation/infoswap/366019-082834-infoswap.jpg",
+        "text": "An Egyptian antiPresident Mohammed Morsi protester waves a national flag in front of a banner criticizing US President Obama in Cairo s Tahrir Square",
+        "fake_cls": "face_swap&text_swap",
+        "fake_image_box": [
+            88,
+            95,
+            138,
+            164
+        ],
+        "fake_text_pos": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            13,
+            14,
+            15,
+            20,
+            22,
+            23
+        ],
+        "mtcnn_boxes": [
+            [
+                221,
+                19,
+                277,
+                98
+            ],
+            [
+                88,
+                95,
+                138,
+                164
+            ]
+        ]
+    },
+    {
+        "id": 1669321,
+        "image": "DGM4/manipulation/simswap/simswap/1669321-024135-simswap.jpg",
+        "text": "Alexei Navalny says that he is proud because of his opposition to President Putin",
+        "fake_cls": "face_swap&text_attribute",
+        "fake_image_box": [
+            213,
+            23,
+            276,
+            120
+        ],
+        "fake_text_pos": [
+            6
+        ],
+        "mtcnn_boxes": [
+            [
+                213,
+                23,
+                276,
+                120
+            ],
+            [
+                91,
+                124,
+                135,
+                178
+            ],
+            [
+                0,
+                148,
+                33,
+                198
+            ],
+            [
+                392,
+                109,
+                433,
+                161
+            ],
+            [
+                157,
+                121,
+                191,
+                162
+            ]
+        ]
+    },
+    {
+        "id": 1079101,
+        "image": "DGM4/manipulation/infoswap/1079101-094270-infoswap.jpg",
+        "text": "Vladimir Putin with Barack Obama last month Our perception of Russians as people is also improved by their language and the way they speak it",
+        "fake_cls": "face_swap&text_attribute",
+        "fake_image_box": [
+            274,
+            14,
+            312,
+            66
+        ],
+        "fake_text_pos": [
+            15
+        ],
+        "mtcnn_boxes": [
+            [
+                122,
+                52,
+                159,
+                110
+            ],
+            [
+                274,
+                14,
+                312,
+                66
+            ]
+        ]
+    },
+    {
+        "id": 340549,
+        "image": "DGM4/manipulation/StyleCLIP/StyleCLIP/340549-StyleCLIP.jpg",
+        "text": "Supporters of Russian opposition leader Boris Nemtsov take part in a memorial march marking the oneyear anniversary of his victory",
+        "fake_cls": "face_attribute&text_attribute",
+        "fake_image_box": [
+            238,
+            71,
+            285,
+            131
+        ],
+        "fake_text_pos": [
+            19
+        ],
+        "mtcnn_boxes": [
+            [
+                238,
+                71,
+                285,
+                131
+            ],
+            [
+                122,
+                145,
+                151,
+                176
+            ],
+            [
+                358,
+                96,
+                371,
+                112
+            ]
+        ]
+    },
+    {
+        "id": 248859,
+        "image": "DGM4/manipulation/StyleCLIP/StyleCLIP/248859-StyleCLIP.jpg",
+        "text": "Relatives of the trapped mines celebrate the government in Soma",
+        "fake_cls": "face_attribute&text_attribute",
+        "fake_image_box": [
+            255,
+            81,
+            291,
+            125
+        ],
+        "fake_text_pos": [
+            5
+        ],
+        "mtcnn_boxes": [
+            [
+                149,
+                60,
+                194,
+                119
+            ],
+            [
+                336,
+                60,
+                372,
+                110
+            ],
+            [
+                255,
+                81,
+                291,
+                125
+            ],
+            [
+                299,
+                70,
+                319,
+                97
+            ],
+            [
+                24,
+                85,
+                42,
+                106
+            ]
+        ]
+    },
+    {
+        "id": 226092,
+        "image": "DGM4/manipulation/HFGI/HFGI/226092-HFGI.jpg",
+        "text": "At his press conference with Al Gore Clive Palmer stressed that his party will vote against any attempt to amend or abolish the RET before the next election",
+        "fake_cls": "face_attribute&text_swap",
+        "fake_image_box": [
+            33,
+            49,
+            158,
+            205
+        ],
+        "fake_text_pos": [
+            1,
+            2,
+            3,
+            9,
+            11,
+            12,
+            13,
+            14,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27
+        ],
+        "mtcnn_boxes": [
+            [
+                33,
+                49,
+                158,
+                205
+            ],
+            [
+                183,
+                46,
+                313,
+                192
+            ]
+        ]
+    },
+    {
+        "id": 1212128,
+        "image": "DGM4/manipulation/HFGI/HFGI/1212128-HFGI.jpg",
+        "text": "Left to right director JeanLuc Godard cinematographer Raoul Coutard and Jean Seberg in Paris shooting of Breathless",
+        "fake_cls": "face_attribute&text_swap",
+        "fake_image_box": [
+            233,
+            66,
+            260,
+            102
+        ],
+        "fake_text_pos": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            13,
+            14,
+            16
+        ],
+        "mtcnn_boxes": [
+            [
+                150,
+                28,
+                177,
+                64
+            ],
+            [
+                233,
+                66,
+                260,
+                102
+            ]
+        ]
+    },
+    {
+        "id": 1566214,
+        "image": "DGM4/manipulation/infoswap/1566214-060784-infoswap.jpg",
+        "text": "Spanish Affair s cast won a string of Goya cinema awards in Spain earlier this year",
+        "fake_cls": "face_swap",
+        "fake_image_box": [
+            201,
+            74,
+            291,
+            194
+        ],
+        "fake_text_pos": [],
+        "mtcnn_boxes": [
+            [
+                201,
+                74,
+                291,
+                194
+            ],
+            [
+                558,
+                62,
+                623,
+                168
+            ]
+        ]
+    },
+    {
+        "id": 1461899,
+        "image": "DGM4/manipulation/simswap/simswap/1461899-107452-simswap.jpg",
+        "text": "Paul Murphy helped Northern Ireland Secretary Mo Mowlam achieve the Good Friday Agreement in 1998",
+        "fake_cls": "face_swap",
+        "fake_image_box": [
+            45,
+            19,
+            184,
+            212
+        ],
+        "fake_text_pos": [],
+        "mtcnn_boxes": [
+            [
+                45,
+                19,
+                184,
+                212
+            ],
+            [
+                393,
+                87,
+                526,
+                259
+            ]
+        ]
+    },
+    {
+        "id": 668366,
+        "image": "DGM4/origin/guardian/guardian/0381/764.jpg",
+        "text": "Julian Assange Republicans have labelled him a terrorist and even liberal Democrats have called for him to be prosecuted",
+        "fake_cls": "orig",
+        "fake_image_box": [],
+        "fake_text_pos": [],
+        "mtcnn_boxes": [
+            [
+                297,
+                33,
+                368,
+                114
+            ],
+            [
+                161,
+                12,
+                215,
+                88
+            ]
+        ]
+    }
+]
